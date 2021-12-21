@@ -1,4 +1,4 @@
-My programs are terrible
+My programs are terrible. \n
 Contrary to my profile picture, I don't actually know how to code in C++ lmao
 <!---
 ProfessorAtomicManiac/ProfessorAtomicManiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
