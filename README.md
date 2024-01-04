@@ -13,7 +13,7 @@ This is the home of a bunch of random projects I made. Here's a quick rundown:
 - Rewrote some sections on the [robotics training site](https://deep-blue-training.readthedocs.io/en/latest/)
 - [Todo list Web Application](https://github.com/ProfessorAtomicManiac/to-do-list) made using Svelte. Just me trying out webdev.
 - [Webscraping Projects](https://github.com/ProfessorAtomicManiac/Webscraping-Projects) using Beautiful Soup 4, Requests, Selenium, and other Python Webscraping libraries.
-- [Really bad recreation of Dream's Speedrunner vs Hunter plugin](https://github.com/ProfessorAtomicManiac/Scuffed-Speedrunner-vs-Hunter)
+- [Bad recreation of Dream's Speedrunner vs Hunter plugin](https://github.com/ProfessorAtomicManiac/Scuffed-Speedrunner-vs-Hunter)
 
 <!---
 ProfessorAtomicManiac/ProfessorAtomicManiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
