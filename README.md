@@ -2,7 +2,7 @@
 This is the home of a bunch of random projects I made. Here's a quick rundown:
 
 ## Upcoming/Currently working on
-- 📚 Trying to learn Linear Algebra from [MITOpenCourseware](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/). As an interesting way to make sure I know the content I'm making a Linear Algebra library in Python. Think of it as a terrible version of NumPy.
+- 📚 Trying to learn Linear Algebra from [MITOpenCourseware](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/). As an interesting way to make sure I know the content I'm making a Linear Algebra library in Python. Think of it as a NumPy clone.
 - 🤖 Waiting for January 6th 9:00 AM PST (FRC 2024 Kickoff/Game Reveal)!!
 - 💻 Planning to update the [Deep Blue Robotics website](https://github.com/DeepBlueRobotics/DeepBlueRobotics.github.io) once UI/UX components are ready
 
@@ -13,7 +13,7 @@ This is the home of a bunch of random projects I made. Here's a quick rundown:
 - Rewrote some sections on the [robotics training site](https://deep-blue-training.readthedocs.io/en/latest/)
 - [Todo list Web Application](https://github.com/ProfessorAtomicManiac/to-do-list) made using Svelte. Just me trying out webdev.
 - [Webscraping Projects](https://github.com/ProfessorAtomicManiac/Webscraping-Projects) using Beautiful Soup 4, Requests, Selenium, and other Python Webscraping libraries.
-- [Bad recreation of Dream's Speedrunner vs Hunter plugin](https://github.com/ProfessorAtomicManiac/Scuffed-Speedrunner-vs-Hunter)
+- [Recreation of Dream's Speedrunner vs Hunter plugin](https://github.com/ProfessorAtomicManiac/Scuffed-Speedrunner-vs-Hunter)
 
 <!---
 ProfessorAtomicManiac/ProfessorAtomicManiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
