@@ -9,7 +9,8 @@ This is the home of a bunch of random projects I made. Here's a quick rundown:
 - [Bunch of algorithms + solutions to memorable competitive programming problems](https://github.com/ProfessorAtomicManiac/Code)
 - Contributed to Deep Blue Robotics' codebases in [2022](https://github.com/DeepBlueRobotics/RobotCode2022) and [2023](https://github.com/DeepBlueRobotics/RobotCode2023). In 2022, I helped code the intake subsystem. In 2023, I helped code the arm subsystem + autonomous pathing.
 - Rewrote some sections on the [robotics training site](https://deep-blue-training.readthedocs.io/en/latest/)
-- [Todo list Web Application](https://github.com/ProfessorAtomicManiac/to-do-list) made using Svelte. Just trying out webdev.
+- [Todo list Web Application](https://github.com/ProfessorAtomicManiac/to-do-list) made using Svelte.
+- [Productivity Desktop Application](https://github.com/ProfessorAtomicManiac/Deep) made using Flutter, still very much WIP.
 - [Webscraping Projects](https://github.com/ProfessorAtomicManiac/Webscraping-Projects) using Beautiful Soup 4, Requests, Selenium, and other Python Webscraping libraries.
 - [Recreation of Dream's Speedrunner vs Hunter plugin](https://github.com/ProfessorAtomicManiac/Scuffed-Speedrunner-vs-Hunter) made using Java (spigot plugin)
 
