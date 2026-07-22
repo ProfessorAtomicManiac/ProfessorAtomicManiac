@@ -5,7 +5,8 @@ This is the home of a bunch of random projects I made. Here's a quick rundown:
 - 📚 Studying at UW Madison as a computer science major!
 
 ## Projects
-- (WIP) [Course and Degree Requirements](https://github.com/twangodev/uw-coursemap) made with Svelte. Shows the order of courses that should be taken to fulfill pre-requisites of a course given the courses the student has already taken.
+- [Board Game Robot](https://github.com/WisconsinRobotics/or_boardgaming) made with Python gpiozero library. Deployed on a Raspberry Pi to control a gantry with a claw that plays tic-tac-toe.
+- [Course and Degree Requirements](https://github.com/twangodev/uw-coursemap) made with Svelte. Shows the order of courses that should be taken to fulfill pre-requisites of a course given the courses the student has already taken.
 - [Sorting Algorithm Visualizer](https://github.com/ProfessorAtomicManiac/AlgorithmVisualizer) made using PyGame. Imagine the sorting visualizer videos you find online that make funny noises.
 - [Bunch of algorithms + solutions to memorable competitive programming problems](https://github.com/ProfessorAtomicManiac/Code)
 - Contributed to Deep Blue Robotics' codebases in [2022](https://github.com/DeepBlueRobotics/RobotCode2022), [2023](https://github.com/DeepBlueRobotics/RobotCode2023), and [2024](https://github.com/DeepBlueRobotics/RobotCode2024). In 2022, I helped code the intake subsystem. In 2023, I helped code the arm subsystem + autonomous pathing. Finally in 2024, I helped code the drivetrain subsystem + autonomous pathing. I also wrote some code in [lib199](https://github.com/DeepBlueRobotics/lib199), a custom library made by the team that was used across years.
